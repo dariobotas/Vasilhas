@@ -897,7 +897,7 @@ function ecraInicial() {
  *
  */
 window.onload = function () {
-    //ecraInicial();
-    iniciarBD();
+    ecraInicial();
+    //iniciarBD();
 
 }
